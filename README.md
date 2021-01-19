@@ -58,7 +58,7 @@ Some programming experience is also recommended.
 
 ## Advanced Lectures
 
-Advanced courses that require prior knowledge in machine learning and AI. 
+Advanced courses in machine learning and AI. 
 
 * [Deep Unsupervised Learning (UC Berkeley CS294)](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) | [Course website](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
