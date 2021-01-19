@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Great that you want to contribute! 
+
 
 ## What you can contribute
 
